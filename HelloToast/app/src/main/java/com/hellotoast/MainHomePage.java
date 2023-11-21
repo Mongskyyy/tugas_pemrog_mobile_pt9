@@ -68,12 +68,7 @@ public class MainHomePage extends AppCompatActivity {
     }
 
     public void createAlarm(View view) {
-        ArrayList<Integer> alarmDays = new ArrayList<>();
-        alarmDays.add(2);
-        alarmDays.add(3);
-        alarmDays.add(4);
         Intent intent = new Intent(AlarmClock.ACTION_SET_ALARM)
-                .putExtra(AlarmClock.EXTRA_DAYS, alarmDays)
                 .putExtra(AlarmClock.EXTRA_MESSAGE, "Testing")
                 .putExtra(AlarmClock.EXTRA_HOUR, 7)
                 .putExtra(AlarmClock.EXTRA_MINUTES, 30)
@@ -83,4 +78,5 @@ public class MainHomePage extends AppCompatActivity {
             startActivity(intent);
         }
     }
+
 }

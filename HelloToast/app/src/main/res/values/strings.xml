@@ -2,11 +2,12 @@
     <string name="app_name">ARRASYNET</string>
     <string name="halo">Bagaimana Kabar Anda Hari Ini!</string>
     <string name="button_label_input">Bilangan Fibonacci</string>
-    <string name="button_label_pro_hello_toast">Project Hello Toast</string>
-    <string name="button_label_pro_count">Project Count</string>
-    <string name="button_label_pro_sianida">Project Sianida</string>
-    <string name="button_label_pro_two_activity">Project Two Activity</string>
-    <string name="button_label_pro_set_alarm">Project Set Alarm</string>
+    <string name="button_label_pro_hello_toast">Hello Toast</string>
+    <string name="textView_label_Arrasynet">ARRASYNET HOME PAGE</string>
+    <string name="button_label_pro_count">Count</string>
+    <string name="button_label_pro_sianida">Sianida</string>
+    <string name="button_label_pro_two_activity">Two Activity</string>
+    <string name="button_label_pro_set_alarm">Set Alarm</string>
     <string name="button_label_count">Hitung Fibonacci</string>
     <string name="count_initial_value">0</string>
     <string name="toast_message">Hello Toast</string>
